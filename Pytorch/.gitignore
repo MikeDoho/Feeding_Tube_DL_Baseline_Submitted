@@ -1,0 +1,12 @@
+# Folders
+Data/
+Logs/
+UTD_Test_Env/
+events/
+pretrain_clinic/
+trails/
+
+# extensions
+*.pyc
+*.pth
+*.log
